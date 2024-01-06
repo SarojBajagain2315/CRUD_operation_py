@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(107,187, 152);
+}
+#DivOne{
+    background-color: rgb(226, 225, 223);
+    max-width: fit-content;
+    padding: 2%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+#btn{
+    margin-left: 35%; 
+}
+#btn:hover {
+    background-color: rgb(5, 211, 119);
+    color: white;
+}
+#DivTwo{
+    margin-top: 5%;
+    margin-left: 75%;
+}#id{
+    margin-left: 13.9%;
+}
+
+.showrecord{
+    font-size: 20px;
+    color: rgb(13, 11, 11);
+    border-radius: 50px;
+}
